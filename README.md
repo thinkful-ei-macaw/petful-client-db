@@ -1,6 +1,6 @@
 ### Petful Client - by Brandon L & Desmond W
 
-Petful is an animal shelter for cats & dogs based on a model of free but first come first serve basis. Select adopt a pet to be directed to our adoption page, where you can adopt a cat or a dog, using a queue data structure. When it is your turn, you will be presented with a single cat & dog that has been in our care for the longest.
+Petful is an animal shelter for cats & dogs based on a model of free but first come first serve basis. Select adopt a pet to be directed to our adoption page, where you can adopt a cat or a dog, using a queue data structure. When it is your turn, you will be presented with a single cat or dog that has been in our care for the longest.
 
 ### Tech Stack
 
